@@ -40,7 +40,6 @@ const Header = () => {
 
 
 
-
     return (
         <div className="navbar bg-base-100 dark:bg-gray-900 dark:text-white">
             <div className="navbar-start">
